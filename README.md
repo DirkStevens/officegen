@@ -9,7 +9,12 @@ node.js 0.10 including Linux, OS-X and Windows and it's not depending on any out
 
 Donations:
 
-I'm accepting tips through [Gittip](<https://www.gittip.com/Ziv-Barber>)
+This repo is a fork of (https://github.com/Ziv-Barber/officegen)
+
+Ziv Barber the original author is accepting tips through [Gittip](<https://www.gittip.com/Ziv-Barber>)
+
+Please donate as we're grateful for Ziv's work.
+
 
 OpenOffice document generation support will be added in the future.
 Please refer to the roadmap section for information on what will be added in the next versions.
